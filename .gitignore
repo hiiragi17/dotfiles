@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Backup files
+*.bak
+*~
+
+# Optional: 辞書登録に個人情報が含まれる場合はコメントアウトを外す
+# dictionary_backup
