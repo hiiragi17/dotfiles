@@ -243,4 +243,5 @@ dotfiles/
 - [peco](https://github.com/peco/peco)
 - [tig](https://jonas.github.io/tig/)
 - [pecoを使ったらターミナルの操作が劇的に効率化できた話](https://qiita.com/keisukee/items/9b815e56a173a281f42f)
+- [tigってなに？ gitを操作するなら、tigを使おう！](https://zenn.dev/gakin/articles/use_tig_instread_of_git)
 - [【透明化】ターミナルの環境設定変更しないと絶対に損します>_<](https://qiita.com/chisaki0606/items/28e4df4bb778e8bdaae8)
